@@ -1,0 +1,17 @@
+Known Issues - VHVR FlatVR Alpha 0.1.0
+
+Active:
+1.  Main menu UI becomes zoomed/corrupted after logout. May appear zoomed in or cursor may not function properly. Recommended restart of game or use keyboard keys to navigate into game.
+2. Giant helmet rendering bug when transitioning from first person to third person. If It happens, de-equip and re-equip helmet.
+3. HUD hide controls do not fully work in FlatVR.
+4. Mouse Y-axis aiming is not implemented.
+5. Some movement/orientation state may need manual VHVR recentering after mode switches with the Home hotkey.
+
+Recently resolved:
+- Headset crosshair restoration after VRC to FlatVR.
+- Hover text restoration after VRC to FlatVR.
+- Controller cursor cleanup after VRC to FlatVR.
+- Crosshair depth/flicker caused by local player self-hit.
+
+Recommended:
+Back up your original ValheimVRMod.dll before installing.
